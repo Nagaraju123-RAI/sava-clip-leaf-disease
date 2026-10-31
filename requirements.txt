@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision>=0.16
+transformers>=4.45,<5
+accelerate
+scikit-learn
+scipy
+matplotlib
+pillow
+numpy

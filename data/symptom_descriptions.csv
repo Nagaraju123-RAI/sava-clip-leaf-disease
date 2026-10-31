@@ -1,0 +1,39 @@
+index,plantvillage_folder,crop,condition,symptom_description
+1,Apple___Apple_scab,apple,apple scab,olive-green to dark brown velvety spots that become corky lesions on the leaf
+2,Apple___Black_rot,apple,black rot,small purple spots that enlarge into brown frog-eye lesions with tan centers and purple margins
+3,Apple___Cedar_apple_rust,apple,cedar apple rust,bright yellow-orange spots with a reddish border and tiny dark dots in the center
+4,Apple___healthy,apple,healthy,a uniformly green apple leaf with a smooth surface and no spots
+5,Blueberry___healthy,blueberry,healthy,a smooth oval uniformly green blueberry leaf without lesions
+6,Cherry_(including_sour)___Powdery_mildew,cherry,powdery mildew,white powdery fungal patches on the leaf surface with slight curling
+7,Cherry_(including_sour)___healthy,cherry,healthy,a glossy uniformly green cherry leaf with serrated edges and no spots
+8,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,corn,gray leaf spot,long narrow rectangular gray to tan lesions running parallel between the veins
+9,Corn_(maize)___Common_rust_,corn,common rust,many small elongated cinnamon-brown powdery pustules scattered across the blade
+10,Corn_(maize)___Northern_Leaf_Blight,corn,northern leaf blight,long elliptical cigar-shaped gray-green to tan lesions on the blade
+11,Corn_(maize)___healthy,corn,healthy,a long green corn blade with clean parallel veins and no lesions
+12,Grape___Black_rot,grape,black rot,circular reddish-brown spots with dark borders and tiny black dots inside
+13,Grape___Esca_(Black_Measles),grape,esca (black measles),tiger-stripe pattern of yellow or red bands between veins with dried brown stripes
+14,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),grape,leaf blight,irregular dark brown to black angular spots with drying leaf tissue
+15,Grape___healthy,grape,healthy,a lobed uniformly green grape leaf without spots or discoloration
+16,Orange___Haunglongbing_(Citrus_greening),orange,citrus greening,blotchy asymmetric yellow mottling of the leaf with yellowed veins
+17,Peach___Bacterial_spot,peach,bacterial spot,small angular purple-brown spots that may fall out leaving shot holes
+18,Peach___healthy,peach,healthy,a narrow lance-shaped uniformly green peach leaf
+19,"Pepper,_bell___Bacterial_spot",bell pepper,bacterial spot,small water-soaked spots turning brown with yellow halos on the leaf
+20,"Pepper,_bell___healthy",bell pepper,healthy,a smooth uniformly green bell pepper leaf with no spots
+21,Potato___Early_blight,potato,early blight,dark brown circular spots with concentric target-like rings and yellow surroundings
+22,Potato___Late_blight,potato,late blight,large irregular water-soaked dark brown to black lesions with pale margins
+23,Potato___healthy,potato,healthy,a uniformly green potato leaflet without lesions
+24,Raspberry___healthy,raspberry,healthy,a serrated uniformly green raspberry leaflet without spots
+25,Soybean___healthy,soybean,healthy,an oval uniformly green soybean leaflet without spots
+26,Squash___Powdery_mildew,squash,powdery mildew,white powdery spots and coating spread over the leaf surface
+27,Strawberry___Leaf_scorch,strawberry,leaf scorch,many small irregular dark purple spots with dry scorched leaf edges
+28,Strawberry___healthy,strawberry,healthy,a toothed uniformly green strawberry leaflet without spots
+29,Tomato___Bacterial_spot,tomato,bacterial spot,"small dark greasy brown spots, sometimes with yellow halos"
+30,Tomato___Early_blight,tomato,early blight,brown spots with concentric rings surrounded by yellowing tissue
+31,Tomato___Late_blight,tomato,late blight,large irregular greasy gray-green to brown lesions spreading across the leaf
+32,Tomato___Leaf_Mold,tomato,leaf mold,pale yellow patches on the upper surface with olive-green velvety mold beneath
+33,Tomato___Septoria_leaf_spot,tomato,septoria leaf spot,many small circular spots with dark brown margins and gray-white centers
+34,Tomato___Spider_mites Two-spotted_spider_mite,tomato,spider mite damage,"fine yellow stippling and bronzing of the leaf, sometimes with fine webbing"
+35,Tomato___Target_Spot,tomato,target spot,brown lesions with concentric rings and light brown centers
+36,Tomato___Tomato_Yellow_Leaf_Curl_Virus,tomato,yellow leaf curl virus,small upward-curled crumpled leaves with yellow margins
+37,Tomato___Tomato_mosaic_virus,tomato,mosaic virus,light and dark green mottled mosaic pattern with leaf distortion
+38,Tomato___healthy,tomato,healthy,a uniformly green compound tomato leaf with no spots
