@@ -3,8 +3,9 @@
 Code, symptom descriptions, data splits and raw results for the paper
 
 > **Symptom-aware vision–language adaptation for few-shot leaf disease recognition under laboratory-to-field domain shift**
-> G. Nagaraju, Department of CSE (AIML, IoT & R&AI), VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India.
-> *Manuscript under review.*
+> G. Nagaraju, Sridhar Gujjeti, Sagar Yeruva, N. Sandhya, A. Harshavardhan, Srinivas Kanakala
+> VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad, India; Kakatiya Institute of Technology & Science, Warangal, India.
+> *Manuscript submitted for journal publication.*
 
 Deep networks trained on laboratory photographs of leaves are almost perfect on laboratory images but fail on field images, and every new disease needs new labelled data. This repository studies how a frozen **CLIP** vision–language model can be adapted to leaf disease recognition with very few labelled images while staying robust to field conditions.
 
@@ -105,7 +106,7 @@ If you use this code or the symptom descriptions, please cite the paper (citatio
 
 ```bibtex
 @article{nagaraju2026savaclip,
-  author  = {Nagaraju, G.},
+  author  = {Nagaraju, G. and Gujjeti, Sridhar and Yeruva, Sagar and Sandhya, N. and Harshavardhan, A. and Kanakala, Srinivas},
   title   = {Symptom-aware vision--language adaptation for few-shot leaf disease recognition under laboratory-to-field domain shift},
   journal = {Manuscript under review},
   year    = {2026}
@@ -118,4 +119,4 @@ Code and symptom descriptions are released under the MIT Licence (see [`LICENSE`
 
 ## Contact
 
-G. Nagaraju – nagaraju.gujjeti@gmail.com
+G. Nagaraju (corresponding author) – nagaraju.gujjeti@gmail.com
